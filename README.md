@@ -6,5 +6,5 @@ The page uses basic styling defined in styles.css and incorporates the Google Fo
 
 This setup allows users to calculate deposit interest quickly and efficiently directly from their web browser.
 <!-- Markdown with HTML -->
-<img src="https://github.com/OlgaVikVol/test_task_neo/assets/116906254/a12cc4f0-18fc-4295-bd17-658165594820)" alt="Image Description" width="400" height="300" />
+<img src="https://github.com/OlgaVikVol/test_task_neo/assets/116906254/a12cc4f0-18fc-4295-bd17-658165594820)" alt="Image Description" width="400" height="400" />
 
