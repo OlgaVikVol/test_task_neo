@@ -4,7 +4,7 @@ function submitData(e) {
 	const formData = new FormData(e.target);
 	const formProps = Object.fromEntries(formData);
 	const res = calculate(formProps.sum, formProps.day, formProps.percent, formProps.isCapital);
-	document.querySelector('.result').innerHTML = `Ваш доход: ${res} руб`;
+	document.querySelector('.result').innerHTML = `Your income: ${res} dollars`;
 }
 
 function calculate(sum, day, percent, isCapital) {
